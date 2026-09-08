@@ -1,0 +1,11 @@
+{
+  "name": "Remix KrishiSat AI - Smart Farming Platform",
+  "description": "AI-powered satellite farming dashboard for Indian agriculture with satellite imagery crop disease detection, soil fertilization, real-time weather irrigation, Mandi price tracking, pest alerts, and offline sync in local Indian languages.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
